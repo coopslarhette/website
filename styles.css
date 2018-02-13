@@ -1,0 +1,24 @@
+.container {
+  margin: auto;
+  margin-top: 17px;
+  width: 600px;
+}
+
+h1 {
+  font-family: 'Indie FLower', cursive;
+  font-size: 63px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+#picture {
+  border: 2px solid black;
+}
+
+.media {
+  display: inline;
+}
+
+#intro {
+  font-size: 18px;
+}
