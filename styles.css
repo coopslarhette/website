@@ -13,7 +13,8 @@ h1 {
 }
 
 #picture {
-  border: 2px solid black;
+  border: 1px solid black;
+  max-height: 320px;
 }
 
 #github-logo {
@@ -36,7 +37,9 @@ h1 {
 }
 
 /* Small devices (landscape phones, 576px and up) */
-@media (min-width: 576px) {}
+@media (min-width: 576px) {
+
+}
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {}
