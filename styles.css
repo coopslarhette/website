@@ -4,6 +4,11 @@ h1 {
   margin-bottom: 10px;
 }
 
+.main-section {
+  max-width: 750px;
+  margin: 0 auto;
+}
+
 #second {
   margin-top: 20px;
 }
